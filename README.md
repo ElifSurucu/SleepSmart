@@ -1,10 +1,12 @@
 # SleepSmart
 Uncovering Lifestyle Patterns Behind Sleep Health
 
+![alt text](woman-closed-face-with-hands-1390552613.jpg)
+
 # 💤 Sleep Health & Lifestyle Analysis
 
 This project explores how lifestyle factors, demographics, and health conditions influence sleep quality and duration using a synthetic sleep dataset of 374 individuals.
-
+- The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset): Sleep Health and Lifestyle Dataset
 ---
 
 ## 📊 Objectives
@@ -71,9 +73,4 @@ The dataset includes 13 columns:
 - Stacked Bar Plot for Insomnia by Gender
 - Heatmap for Correlation Matrix
 
----
 
-## 📦 Requirements
-
-```bash
-pip install pandas seaborn matplotlib scipy statsmodels
